@@ -1,0 +1,67 @@
+# Node.js
+node_modules/
+**/node_modules/
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# Environment variables
+.env
+.env.*  # For .env.local, .env.production, etc.
+**/.env
+**/.env.*
+
+# Build output
+dist/
+build/
+out/
+.next/
+**/dist/
+**/build/
+**/out/
+**/.next/
+
+# OS generated
+.DS_Store
+Thumbs.db
+
+# IDEs and editors
+.vscode/
+.idea/
+*.sublime-workspace
+*.sublime-project
+**/.vscode/
+**/.idea/
+
+# Coverage reports
+coverage/
+**/coverage/
+
+# Optional npm cache
+.npm
+.pnpm-store
+
+# Debug
+*.swp
+*.swo
+
+# Mac system files
+.AppleDouble
+.LSOverride
+
+
+# Misc
+*.tgz
+*.tar.gz
+*.lock
+package-lock.json
+yarn.lock
+pnpm-lock.yaml
+**/package-lock.json
+**/yarn.lock
+**/pnpm-lock.yaml
