@@ -43,7 +43,7 @@ coding_platform-main/
 ## ⚙️ Setup & Running
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/yourusername/coding_platform.git
+git clone https://github.com/saifvelly/EScapeRoom.git
 cd coding_platform
 ````
 
